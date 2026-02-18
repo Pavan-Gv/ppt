@@ -20,5 +20,5 @@ Billability Role : TRAINEE-TESTING
 Work Model : COG Hybrid 2-3 d/w-Cog Ask
 Manager ID : 280885
 Manager Name : Bhomale,Anil1
-Status : Assigned
+Status : Assignedcc
 ```
