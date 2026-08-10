@@ -22,7 +22,6 @@ Manager ID : 280885
 Manager Name : Bhomale,Anil1
 Status : Assignedcc
 ```
-
 ```
 Palamakula Deepika
 Phone : 7842248277 | Email : deepikaravikumar26@gmail.com | Location : Tirupati, India, 517502
